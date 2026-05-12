@@ -1,4 +1,4 @@
-# 
+# Enhance Aseprite for PC | Aseprite for Windows with smart Aseprite for PC | Aseprite for Windows Plugin | texture-painting + HDR-editing, the #1 plugin. Includes texture-painting
 
 
 
